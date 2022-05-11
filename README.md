@@ -185,6 +185,7 @@ Packaging for your favorite distribution would be a welcome contribution!
       ```
       adb devices -l
       adb logcat
+      
       ```
       * If using adb inside docker, make sure you did
       ```
